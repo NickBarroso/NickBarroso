@@ -1,1 +1,2 @@
-![alt text]([http://url/to/img.png](https://www.dropbox.com/scl/fi/te1rbhjx15koxgoc9gbf9/Linkedin-Banner-01.png?rlkey=lqr6z51edqg9s7ljw6tr2n4lp&dl=0)https://www.dropbox.com/scl/fi/te1rbhjx15koxgoc9gbf9/Linkedin-Banner-01.png?rlkey=lqr6z51edqg9s7ljw6tr2n4lp&dl=0)
+![Linkedin Banner-01](https://github.com/NickBarroso/NickBarroso/assets/54039703/2b92b376-cf61-4938-944f-8db25bb5e075)
+### Hi my name is Nico 😄
